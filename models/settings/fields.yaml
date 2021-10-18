@@ -1,0 +1,11 @@
+fields:
+    project_id:
+        label: Project ID
+        span: left
+        type: sensitive
+
+    server:
+        label: Server
+        span: left
+        type: text
+        default: codecycler.com
